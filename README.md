@@ -36,7 +36,7 @@ To demonstrate this, we used our own institution, MCKV Institute of Engineering,
 
 # 📍 Example Placemarks Added:
     - 📌MCKV_Bus
-    -📌 MCKV Mango Tree
+    - 📌MCKV Mango Tree
     - 📌MCKV Gate-3
     - 📌Each of these is geo-tagged and can be used later in drone mapping or to verify data accuracy during model training.
 
