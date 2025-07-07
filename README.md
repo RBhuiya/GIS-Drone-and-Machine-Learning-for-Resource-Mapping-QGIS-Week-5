@@ -28,10 +28,10 @@ To demonstrate this, we used our own institution, MCKV Institute of Engineering,
     - Under Properties, use the mouse to draw the campus boundary by clicking around its perimeter.
     - Save and close.
 4. Now, inside the same folder, you can Add Placemarks for key landmarks:
-  - Click Add Placemark
-  - Move the icon to the desired location (e.g., Bus Stand, Mango Tree, Gate-3, etc.)
-  - Rename each placemark appropriately
-  - Longitude & Latitude coordinates are automatically stored
+    - Click Add Placemark
+    - Move the icon to the desired location (e.g., Bus Stand, Mango Tree, Gate-3, etc.)
+    - Rename each placemark appropriately
+    - Longitude & Latitude coordinates are automatically stored
 5. Save the folder or export the map as .KML or .KMZ file for future integration with GIS tools like QGIS.
 
 📍 Example Placemarks Added:
