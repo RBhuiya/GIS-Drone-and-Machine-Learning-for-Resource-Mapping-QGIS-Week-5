@@ -34,11 +34,11 @@ To demonstrate this, we used our own institution, MCKV Institute of Engineering,
     - Longitude & Latitude coordinates are automatically stored
 5. Save the folder or export the map as .KML or .KMZ file for future integration with GIS tools like QGIS.
 
-📍 Example Placemarks Added:
-  - 📌MCKV_Bus
-  -📌 MCKV Mango Tree
-  - 📌MCKV Gate-3
-  - 📌Each of these is geo-tagged and can be used later in drone mapping or to verify data accuracy during model training.
+# 📍 Example Placemarks Added:
+    - 📌MCKV_Bus
+    -📌 MCKV Mango Tree
+    - 📌MCKV Gate-3
+    - 📌Each of these is geo-tagged and can be used later in drone mapping or to verify data accuracy during model training.
 
 # 🖥️ Screenshot
 -(MCKV Campus Main Map_2025)
