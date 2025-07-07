@@ -51,8 +51,8 @@ To demonstrate this, we used our own institution, MCKV Institute of Engineering,
 ![MCKV Campus Map_(Add &Polygon Add )](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-5/blob/db99c0b0332196cdbf29a3134abba161a5995c2e/Screenshot/MCKV%20Campus%20Map_(Add%20%26Polygon%20Add%20).png)
 
 # 📝 Requirements
-- ⬇️ Install Google Earth Pro (Free): https://www.google.com/intl/en_in/earth/about/versions/#download-pro
-- Basic internet connection
+- ⬇️ Install Google Earth Pro (Download Free): [Official Website](https://www.google.com/intl/en_in/earth/about/versions/#download-pro)(Latest Verson).
+- Stable Basic internet connection
 - A real-world location to map (e.g., your school, campus, or neighborhood)
 
 # ✅ Benefits of This Analysis
