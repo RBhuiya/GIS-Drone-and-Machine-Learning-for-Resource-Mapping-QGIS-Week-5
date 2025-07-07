@@ -20,13 +20,13 @@ To demonstrate this, we used our own institution, MCKV Institute of Engineering,
 - Live capture of longitude and latitude coordinates.
 - Hands-on mapping of real-life resources within a known area.
 
-🛠️ Project Steps
+# 🛠️ Project Steps
 1. Open Google Earth Pro and navigate to your area of interest.
 2. In the Places panel, right-click on My Places → select Add → then Folder.
-  - Rename the folder to “MCKV Campus”.
+    - Rename the folder to “MCKV Campus”.
 3. Right-click the new folder → select Add Polygon → rename to “MCKV Campus Area”.
-  - Under Properties, use the mouse to draw the campus boundary by clicking around its perimeter.
-  - Save and close.
+    - Under Properties, use the mouse to draw the campus boundary by clicking around its perimeter.
+    - Save and close.
 4. Now, inside the same folder, you can Add Placemarks for key landmarks:
   - Click Add Placemark
   - Move the icon to the desired location (e.g., Bus Stand, Mango Tree, Gate-3, etc.)
